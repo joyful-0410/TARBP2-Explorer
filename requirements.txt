@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+requests
+lifelines
+scikit-learn
+scipy
+shap
+py3Dmol
+stmol
+networkx
