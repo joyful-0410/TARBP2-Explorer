@@ -1,0 +1,738 @@
+gene_id,sample,TARBP2_expression,sample_type_id,sample_type,_primary_disease
+TARBP2,TCGA-BL-A13J-11,7.41,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-BT-A20N-11,7.54,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-BT-A20Q-11,7.59,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-BT-A20R-11,7.0,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-BT-A20U-11,9.08,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-BT-A20W-11,8.52,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-BT-A2LA-11,8.7,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-BT-A2LB-11,8.35,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-CU-A0YN-11,7.9,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-CU-A0YR-11,7.85,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-GC-A3BM-11,8.62,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-GC-A3WC-11,8.56,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-GC-A6I3-11,10.02,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-GD-A2C5-11,8.86,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-GD-A3OP-11,8.89,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-GD-A3OQ-11,8.58,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-K4-A3WV-11,8.95,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-K4-A54R-11,7.93,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-K4-A5RI-11,8.51,11.0,Solid Tissue Normal,bladder urothelial carcinoma
+TARBP2,TCGA-AJ-A3NC-11,8.02,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-AJ-A3NE-11,8.07,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-AJ-A3NH-11,9.65,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-AX-A05Y-11,7.96,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-AX-A0IZ-11,7.65,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-AX-A0J0-11,8.17,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-AX-A2HC-11,8.29,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-AX-A2HD-11,9.47,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-BG-A2AD-11,8.4,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-BG-A3EW-11,8.43,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-BG-A3PP-11,8.39,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-BK-A4ZD-11,8.87,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-DI-A2QY-11,9.91,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-FL-A1YF-11,8.93,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-FL-A1YG-11,8.79,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-FL-A1YH-11,9.62,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-FL-A1YI-11,8.63,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-FL-A1YL-11,8.66,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-FL-A1YN-11,8.65,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-FL-A1YQ-11,9.37,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-FL-A1YT-11,8.51,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-FL-A1YU-11,9.78,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-FL-A1YV-11,8.94,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-FL-A3WE-11,9.72,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-GN-A4U8-11,9.74,11.0,Solid Tissue Normal,skin cutaneous melanoma
+TARBP2,TCGA-CV-6933-11,8.62,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-6934-11,8.49,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-6935-11,8.71,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-6936-11,8.67,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-6938-11,8.4,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-6939-11,7.91,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-6943-11,8.53,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-6955-11,8.48,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-6956-11,8.83,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-6959-11,8.56,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-6960-11,8.69,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-6961-11,9.08,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-6962-11,8.47,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7091-11,7.9,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7097-11,8.54,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7101-11,8.69,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7103-11,8.64,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7177-11,8.34,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7178-11,8.97,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7183-11,9.36,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7235-11,8.51,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7238-11,7.99,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7242-11,8.68,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7245-11,7.79,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7250-11,8.33,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7252-11,8.34,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7255-11,8.87,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7261-11,8.3,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7406-11,8.19,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7416-11,8.68,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7423-11,8.72,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7424-11,8.29,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7425-11,9.31,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7432-11,8.52,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7434-11,8.38,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7437-11,9.02,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7438-11,8.77,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CV-7440-11,8.53,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-H7-A6C4-11,8.31,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-H7-A6C5-11,8.97,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-HD-8635-11,8.62,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-HD-A6HZ-11,9.58,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-HD-A6I0-11,9.47,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-WA-A7GZ-11,8.06,11.0,Solid Tissue Normal,head & neck squamous cell carcinoma
+TARBP2,TCGA-CH-5761-11,9.01,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-CH-5767-11,8.56,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-CH-5768-11,8.37,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-CH-5769-11,8.94,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7115-11,8.74,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7123-11,7.33,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7125-11,9.12,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7314-11,8.01,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7315-11,7.95,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7317-11,8.3,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7321-11,8.42,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7327-11,8.29,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7328-11,7.71,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7330-11,8.36,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7331-11,7.88,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7781-11,7.82,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7782-11,9.03,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7783-11,8.21,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7784-11,8.32,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7785-11,8.47,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7786-11,7.72,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7789-11,8.63,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7792-11,8.5,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7793-11,8.15,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7794-11,8.25,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-7797-11,8.63,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-EJ-A8FO-11,8.05,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-G9-6333-11,8.75,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-G9-6342-11,8.84,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-G9-6348-11,8.61,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-G9-6351-11,8.49,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-G9-6356-11,8.97,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-G9-6362-11,8.63,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-G9-6363-11,8.74,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-G9-6365-11,8.93,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-G9-6384-11,8.32,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-G9-6496-11,8.44,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-G9-6499-11,8.24,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-HC-7211-11,8.6,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-HC-7737-11,8.35,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-HC-7738-11,8.26,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-HC-7740-11,8.32,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-HC-7742-11,8.74,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-HC-7745-11,8.2,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-HC-7747-11,8.47,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-HC-7752-11,8.64,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-HC-7819-11,8.31,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-HC-8258-11,8.69,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-HC-8259-11,8.68,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-HC-8260-11,8.83,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-HC-8262-11,8.5,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-J4-A83J-11,8.72,11.0,Solid Tissue Normal,prostate adenocarcinoma
+TARBP2,TCGA-A4-A4ZT-11,8.9,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-A4-A57E-11,9.19,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-B9-4115-11,8.52,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-5875-11,8.46,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-5877-11,8.49,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-5878-11,8.45,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-5879-11,8.49,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-5882-11,8.69,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-5884-11,8.69,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-5887-11,8.29,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-5888-11,8.87,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-5890-11,8.52,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-5891-11,8.66,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-5894-11,8.73,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-7044-11,9.23,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-7045-11,8.5,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-7046-11,8.83,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-7051-11,8.43,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-7055-11,8.62,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-7059-11,8.86,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-BQ-7061-11,9.01,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-DZ-6131-11,8.81,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-DZ-6132-11,8.98,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-DZ-6133-11,8.71,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-DZ-6134-11,8.65,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-GL-6846-11,8.68,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-GL-7966-11,8.71,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-GL-A59R-11,9.1,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-GL-A9DE-11,8.95,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-P4-A5E8-11,9.09,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-P4-A5ED-11,8.55,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-Y8-A8RY-11,8.69,11.0,Solid Tissue Normal,kidney papillary cell carcinoma
+TARBP2,TCGA-H6-8124-11,8.73,11.0,Solid Tissue Normal,pancreatic adenocarcinoma
+TARBP2,TCGA-H6-A45N-11,8.94,11.0,Solid Tissue Normal,pancreatic adenocarcinoma
+TARBP2,TCGA-HV-A5A3-11,9.15,11.0,Solid Tissue Normal,pancreatic adenocarcinoma
+TARBP2,TCGA-YB-A89D-11,8.53,11.0,Solid Tissue Normal,pancreatic adenocarcinoma
+TARBP2,TCGA-FX-A2QS-11,8.98,11.0,Solid Tissue Normal,sarcoma
+TARBP2,TCGA-K1-A3PO-11,8.58,11.0,Solid Tissue Normal,sarcoma
+TARBP2,TCGA-FU-A3EO-11,8.34,11.0,Solid Tissue Normal,cervical & endocervical cancer
+TARBP2,TCGA-HM-A3JJ-11,8.0,11.0,Solid Tissue Normal,cervical & endocervical cancer
+TARBP2,TCGA-MY-A5BF-11,8.6,11.0,Solid Tissue Normal,cervical & endocervical cancer
+TARBP2,TCGA-A6-2671-11,8.39,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-A6-2675-11,8.02,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-A6-2678-11,8.32,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-A6-2679-11,8.61,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-A6-2680-11,7.94,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-A6-2682-11,8.56,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-A6-2683-11,8.4,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-A6-2684-11,8.82,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-A6-2685-11,8.67,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-A6-2686-11,8.32,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-A6-5659-11,8.1,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-A6-5662-11,8.11,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-A6-5665-11,7.92,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-A6-5667-11,8.74,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3489-11,9.09,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3496-11,8.25,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3511-11,8.68,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3514-11,8.31,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3516-11,8.01,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3517-11,8.28,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3518-11,8.55,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3520-11,8.44,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3522-11,8.47,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3525-11,8.54,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3527-11,8.32,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3531-11,8.0,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3534-11,8.45,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3655-11,8.96,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3660-11,8.92,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3662-11,8.72,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3663-11,8.56,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3697-11,8.83,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3712-11,8.65,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AA-3713-11,9.64,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AZ-6598-11,8.64,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AZ-6599-11,8.6,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AZ-6600-11,8.54,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AZ-6601-11,8.4,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AZ-6603-11,8.45,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-AZ-6605-11,7.63,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-F4-6704-11,8.33,11.0,Solid Tissue Normal,colon adenocarcinoma
+TARBP2,TCGA-22-4593-11,8.88,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-22-4609-11,8.06,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-22-5471-11,8.51,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-22-5472-11,8.28,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-22-5478-11,8.28,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-22-5481-11,8.74,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-22-5482-11,8.26,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-22-5483-11,8.51,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-22-5489-11,8.54,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-22-5491-11,8.83,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-33-4587-11,9.45,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-33-6737-11,8.45,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-34-7107-11,8.48,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-34-8454-11,8.39,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-39-5040-11,9.04,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-43-3394-11,8.08,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-43-5670-11,8.14,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-43-6143-11,8.53,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-43-6647-11,8.22,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-43-6771-11,7.94,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-43-6773-11,8.15,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-43-7657-11,8.45,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-43-7658-11,8.74,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-51-4079-11,8.52,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-51-4080-11,8.72,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-51-4081-11,8.67,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-56-7222-11,8.3,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-56-7579-11,8.28,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-56-7580-11,8.49,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-56-7582-11,8.66,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-56-7730-11,8.54,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-56-7731-11,8.07,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-56-7823-11,8.43,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-56-8082-11,7.47,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-56-8083-11,8.55,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-56-8201-11,8.63,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-56-8309-11,8.51,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-56-8623-11,8.65,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-58-8386-11,8.95,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-60-2709-11,8.49,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-77-7138-11,8.59,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-77-7142-11,8.04,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-77-7335-11,8.41,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-77-7337-11,8.21,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-77-7338-11,8.37,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-77-8007-11,9.41,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-77-8008-11,8.99,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-85-7710-11,8.59,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-90-6837-11,8.52,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-90-7767-11,8.48,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-92-7340-11,7.68,11.0,Solid Tissue Normal,lung squamous cell carcinoma
+TARBP2,TCGA-AF-2689-11,8.47,11.0,Solid Tissue Normal,rectum adenocarcinoma
+TARBP2,TCGA-AF-2691-11,8.3,11.0,Solid Tissue Normal,rectum adenocarcinoma
+TARBP2,TCGA-AF-2692-11,8.0,11.0,Solid Tissue Normal,rectum adenocarcinoma
+TARBP2,TCGA-AF-3400-11,8.74,11.0,Solid Tissue Normal,rectum adenocarcinoma
+TARBP2,TCGA-AF-5654-11,8.31,11.0,Solid Tissue Normal,rectum adenocarcinoma
+TARBP2,TCGA-AG-3725-11,9.7,11.0,Solid Tissue Normal,rectum adenocarcinoma
+TARBP2,TCGA-AG-3731-11,8.64,11.0,Solid Tissue Normal,rectum adenocarcinoma
+TARBP2,TCGA-AG-3732-11,7.64,11.0,Solid Tissue Normal,rectum adenocarcinoma
+TARBP2,TCGA-AG-3742-11,8.55,11.0,Solid Tissue Normal,rectum adenocarcinoma
+TARBP2,TCGA-AH-6643-11,8.17,11.0,Solid Tissue Normal,rectum adenocarcinoma
+TARBP2,TCGA-A3-3358-11,9.1,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-A3-3387-11,8.79,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-4700-11,8.43,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-4712-11,8.42,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-5402-11,8.3,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-5690-11,8.26,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-5691-11,7.85,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-5694-11,8.02,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-5696-11,8.42,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-5697-11,8.49,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-5699-11,8.12,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-5701-11,8.23,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-5703-11,8.65,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-5705-11,8.1,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-5706-11,8.28,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-5709-11,8.49,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-5711-11,8.46,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B0-5712-11,8.06,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B2-5636-11,8.35,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B2-5641-11,8.13,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B8-4619-11,9.14,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B8-4620-11,8.08,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B8-4622-11,8.57,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B8-5549-11,8.18,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-B8-5552-11,7.54,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CJ-5672-11,8.04,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CJ-5676-11,8.34,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CJ-5677-11,8.21,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CJ-5678-11,7.99,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CJ-5679-11,8.08,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CJ-5680-11,8.35,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CJ-5681-11,8.42,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CJ-5689-11,8.17,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CJ-6030-11,8.32,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CJ-6033-11,8.76,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CW-5580-11,8.36,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CW-5581-11,8.22,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CW-5584-11,8.51,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CW-5585-11,8.44,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CW-5587-11,8.3,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CW-5589-11,8.33,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CW-5591-11,7.99,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CW-6087-11,8.59,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CW-6088-11,7.97,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CW-6090-11,8.04,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-4863-11,8.4,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-4864-11,8.56,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-4865-11,8.24,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5451-11,8.28,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5452-11,8.37,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5453-11,7.91,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5454-11,8.26,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5455-11,8.4,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5456-11,8.58,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5457-11,8.56,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5458-11,8.22,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5461-11,8.02,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5462-11,8.58,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5463-11,8.14,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5465-11,8.11,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5466-11,8.03,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5467-11,8.29,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5468-11,8.46,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5469-11,8.2,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5470-11,8.37,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5982-11,8.19,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5984-11,8.11,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5985-11,8.29,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5986-11,8.19,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5987-11,7.86,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5988-11,8.04,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-CZ-5989-11,8.29,11.0,Solid Tissue Normal,kidney clear cell carcinoma
+TARBP2,TCGA-BC-A10Q-11,8.61,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-BC-A10R-11,8.07,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-BC-A10T-11,8.5,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-BC-A10U-11,8.37,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-BC-A10W-11,8.81,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-BC-A10X-11,8.45,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-BC-A10Y-11,8.63,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-BC-A10Z-11,8.51,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-BC-A110-11,8.37,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-BC-A216-11,8.73,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-BD-A2L6-11,8.96,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-BD-A3EP-11,8.41,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A113-11,8.51,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A114-11,8.93,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A116-11,9.26,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A118-11,9.42,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A119-11,8.82,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A11A-11,8.8,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A11B-11,8.76,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A11C-11,8.88,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A11D-11,8.85,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A1EB-11,8.89,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A1EC-11,8.65,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A1EE-11,8.89,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A1EG-11,8.89,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A1EH-11,8.91,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A1EI-11,9.01,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A1EJ-11,8.96,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A1EL-11,8.97,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A39V-11,9.19,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A39W-11,9.09,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A39X-11,9.33,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A39Z-11,9.31,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A3A1-11,9.74,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A3A2-11,9.35,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A3A3-11,9.25,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A3A4-11,9.3,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A3A5-11,9.19,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A3A6-11,9.44,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-DD-A3A8-11,9.56,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-EP-A12J-11,8.9,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-EP-A26S-11,9.56,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-EP-A3RK-11,9.27,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-ES-A2HT-11,9.01,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-FV-A23B-11,9.02,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-FV-A2QR-11,8.79,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-FV-A3I0-11,8.56,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-FV-A3I1-11,8.95,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-FV-A3R2-11,9.47,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-G3-A3CH-11,8.88,11.0,Solid Tissue Normal,liver hepatocellular carcinoma
+TARBP2,TCGA-A7-A0CE-11,8.66,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-A7-A0CH-11,8.38,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-A7-A0D9-11,7.17,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-A7-A0DB-11,7.77,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-A7-A0DC-11,7.63,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-A7-A13E-11,7.71,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-A7-A13F-11,7.92,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-A7-A13G-11,7.37,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-AC-A23H-11,7.5,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-AC-A2FB-11,7.97,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-AC-A2FF-11,8.49,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-AC-A2FM-11,9.39,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0AU-11,8.61,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0AY-11,7.9,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0AZ-11,8.29,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0B2-11,8.29,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0B3-11,8.0,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0B5-11,7.54,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0B7-11,8.22,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0B8-11,7.49,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0BA-11,8.02,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0BC-11,7.94,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0BJ-11,8.14,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0BM-11,8.46,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0BQ-11,7.9,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0BS-11,8.44,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0BT-11,8.4,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0BV-11,8.14,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0BW-11,8.12,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0BZ-11,7.97,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0C0-11,8.07,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0C3-11,8.69,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0DD-11,7.67,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0DG-11,8.04,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0DH-11,8.6,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0DK-11,8.45,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0DL-11,8.35,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0DO-11,8.18,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0DP-11,8.06,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0DQ-11,8.29,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0DT-11,8.3,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0DV-11,7.75,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0DZ-11,9.15,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0E0-11,8.78,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0E1-11,8.42,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0H5-11,8.35,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0H7-11,8.53,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0H9-11,8.2,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0HA-11,8.35,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A0HK-11,8.26,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A18J-11,8.22,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A18K-11,8.29,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A18L-11,8.04,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A18M-11,7.92,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A18N-11,8.17,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A18P-11,7.81,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A18Q-11,8.04,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A18R-11,8.01,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A18S-11,8.26,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A18U-11,8.14,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A18V-11,9.0,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1EN-11,7.98,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1EO-11,8.09,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1ET-11,7.75,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1EU-11,7.71,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1EV-11,7.79,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1EW-11,8.35,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1F0-11,7.9,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1F2-11,7.83,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1F6-11,7.3,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1F8-11,8.22,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1FB-11,8.48,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1FC-11,8.52,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1FD-11,7.79,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1FE-11,7.4,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1FG-11,7.13,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1FH-11,8.17,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1FJ-11,7.07,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1FM-11,7.89,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1FN-11,8.15,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1FR-11,8.11,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A1FU-11,8.18,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A203-11,7.62,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A204-11,7.36,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A208-11,8.02,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-BH-A209-11,7.77,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E2-A153-11,8.45,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E2-A158-11,7.61,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E2-A15I-11,7.41,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E2-A15K-11,8.86,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E2-A15M-11,7.78,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E2-A1BC-11,8.24,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E2-A1IG-11,7.71,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E2-A1L7-11,8.42,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E2-A1LB-11,8.74,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E2-A1LH-11,8.54,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E2-A1LS-11,7.41,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1N4-11,8.11,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1N5-11,8.55,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1N6-11,7.93,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1N9-11,8.13,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1NA-11,8.23,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1ND-11,8.77,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1NF-11,7.27,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1NG-11,7.59,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1R7-11,6.86,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1RB-11,7.74,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1RC-11,7.41,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1RD-11,7.81,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1RF-11,7.16,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1RH-11,7.54,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-E9-A1RI-11,6.91,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-GI-A2C8-11,8.0,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-GI-A2C9-11,8.14,11.0,Solid Tissue Normal,breast invasive carcinoma
+TARBP2,TCGA-06-0675-11,7.62,11.0,Solid Tissue Normal,glioblastoma multiforme
+TARBP2,TCGA-06-0678-11,7.65,11.0,Solid Tissue Normal,glioblastoma multiforme
+TARBP2,TCGA-06-0680-11,7.63,11.0,Solid Tissue Normal,glioblastoma multiforme
+TARBP2,TCGA-06-0681-11,8.07,11.0,Solid Tissue Normal,glioblastoma multiforme
+TARBP2,TCGA-06-AABW-11,8.64,11.0,Solid Tissue Normal,glioblastoma multiforme
+TARBP2,TCGA-KL-8324-11,8.7,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KL-8326-11,8.64,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KL-8329-11,8.43,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KL-8332-11,9.73,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KL-8336-11,8.77,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KL-8339-11,9.37,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8419-11,8.53,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8422-11,8.63,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8423-11,8.7,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8424-11,8.74,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8425-11,8.79,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8426-11,8.44,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8427-11,8.63,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8428-11,8.73,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8429-11,8.81,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8430-11,8.85,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8431-11,8.95,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8432-11,9.62,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8433-11,8.55,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8434-11,9.01,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8435-11,8.65,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8436-11,8.79,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KN-8437-11,8.43,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KO-8403-11,8.75,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-KO-8415-11,8.81,11.0,Solid Tissue Normal,kidney chromophobe
+TARBP2,TCGA-BJ-A28R-11,8.4,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-BJ-A28W-11,9.34,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-BJ-A28X-11,8.66,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-BJ-A290-11,8.64,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-BJ-A2N7-11,8.58,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-BJ-A2N8-11,8.67,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-BJ-A2N9-11,9.02,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-BJ-A2NA-11,8.83,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-BJ-A3PR-11,9.91,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-BJ-A3PU-11,9.06,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-DO-A1JZ-11,8.75,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-E8-A2JQ-11,8.42,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3GZ-11,8.64,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3H1-11,8.5,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3H2-11,8.83,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3H7-11,8.1,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3MW-11,8.44,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3MX-11,8.93,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3MY-11,8.44,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3N2-11,8.36,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3N3-11,8.29,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3T0-11,8.63,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3T1-11,8.2,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3T2-11,8.74,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3T3-11,8.92,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3T6-11,8.21,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3T7-11,8.75,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3T8-11,8.98,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3TA-11,8.93,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3TB-11,8.82,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3ZG-11,9.24,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3ZH-11,8.85,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3ZK-11,8.6,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3ZL-11,8.21,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3ZM-11,9.01,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3ZO-11,8.45,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3ZP-11,8.72,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3ZQ-11,8.7,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3ZR-11,8.65,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3ZS-11,9.37,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EL-A3ZT-11,8.83,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EM-A1CS-11,8.8,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EM-A1CT-11,8.69,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EM-A1CU-11,8.33,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EM-A1CV-11,8.92,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EM-A1CW-11,8.2,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EM-A1YC-11,9.02,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-EM-A3ST-11,9.33,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-ET-A2MX-11,9.16,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-ET-A2N5-11,9.3,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-ET-A3DP-11,8.35,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-ET-A3DW-11,8.43,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-FY-A3TY-11,8.68,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-GE-A2C6-11,8.52,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-H2-A2K9-11,8.59,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-H2-A3RI-11,8.82,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-KS-A41I-11,8.69,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-KS-A41J-11,8.76,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-KS-A41L-11,9.06,11.0,Solid Tissue Normal,thyroid carcinoma
+TARBP2,TCGA-38-4625-11,9.08,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-38-4626-11,9.13,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-38-4627-11,9.18,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-38-4632-11,8.97,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-2655-11,8.56,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-2657-11,8.94,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-2661-11,8.6,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-2662-11,8.28,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-2665-11,8.67,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-2668-11,8.35,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-3396-11,8.18,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-3398-11,8.42,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-5645-11,8.63,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-6144-11,8.63,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-6145-11,8.35,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-6146-11,8.11,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-6147-11,7.42,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-6148-11,8.17,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-6776-11,8.11,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-6777-11,8.49,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-44-6778-11,8.23,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-49-4490-11,9.2,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-49-4512-11,9.12,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-49-6742-11,8.54,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-49-6743-11,8.59,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-49-6744-11,7.98,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-49-6745-11,9.14,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-49-6761-11,8.36,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-50-5930-11,8.18,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-50-5931-11,8.0,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-50-5932-11,8.2,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-50-5933-11,7.6,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-50-5935-11,8.02,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-50-5936-11,8.24,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-50-5939-11,8.07,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-50-6595-11,8.31,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6968-11,9.05,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6969-11,8.65,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6970-11,7.99,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6971-11,8.57,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6972-11,8.44,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6975-11,8.56,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6978-11,8.42,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6979-11,8.37,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6980-11,8.49,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6981-11,8.53,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6982-11,8.34,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6983-11,8.35,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6984-11,8.69,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6985-11,8.43,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-55-6986-11,8.45,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-73-4676-11,8.54,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-91-6828-11,8.19,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-91-6829-11,8.98,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-91-6831-11,7.73,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-91-6835-11,8.51,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-91-6836-11,8.64,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-91-6847-11,8.5,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-91-6849-11,8.27,11.0,Solid Tissue Normal,lung adenocarcinoma
+TARBP2,TCGA-P8-A5KC-11,8.65,11.0,Solid Tissue Normal,pheochromocytoma & paraganglioma
+TARBP2,TCGA-P8-A5KD-11,8.79,11.0,Solid Tissue Normal,pheochromocytoma & paraganglioma
+TARBP2,TCGA-SQ-A6I4-11,8.48,11.0,Solid Tissue Normal,pheochromocytoma & paraganglioma
+TARBP2,TCGA-X7-A8D6-11,8.63,11.0,Solid Tissue Normal,thymoma
+TARBP2,TCGA-X7-A8D7-11,9.19,11.0,Solid Tissue Normal,thymoma
+TARBP2,TCGA-W5-AA2I-11,9.03,11.0,Solid Tissue Normal,cholangiocarcinoma
+TARBP2,TCGA-W5-AA2Q-11,9.18,11.0,Solid Tissue Normal,cholangiocarcinoma
+TARBP2,TCGA-W5-AA2R-11,8.41,11.0,Solid Tissue Normal,cholangiocarcinoma
+TARBP2,TCGA-W5-AA2U-11,8.72,11.0,Solid Tissue Normal,cholangiocarcinoma
+TARBP2,TCGA-W5-AA2X-11,8.82,11.0,Solid Tissue Normal,cholangiocarcinoma
+TARBP2,TCGA-W5-AA30-11,9.1,11.0,Solid Tissue Normal,cholangiocarcinoma
+TARBP2,TCGA-W5-AA31-11,9.13,11.0,Solid Tissue Normal,cholangiocarcinoma
+TARBP2,TCGA-W5-AA34-11,8.61,11.0,Solid Tissue Normal,cholangiocarcinoma
+TARBP2,TCGA-ZU-A8S4-11,8.79,11.0,Solid Tissue Normal,cholangiocarcinoma
+TARBP2,TCGA-IC-A6RF-11,7.78,11.0,Solid Tissue Normal,esophageal carcinoma
+TARBP2,TCGA-AJ-A2QL-11,9.79,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-AX-A1CF-11,9.48,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-AX-A1CI-11,9.02,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-AX-A1CK-11,9.3,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-AX-A2HA-11,9.08,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-BK-A0CB-11,7.68,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-BK-A13C-11,7.69,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-DI-A2QU-11,8.63,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-E6-A1M0-11,7.82,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-FL-A1YM-11,8.33,11.0,Solid Tissue Normal,uterine corpus endometrioid carcinoma
+TARBP2,TCGA-IC-A6RE-11,8.05,11.0,Solid Tissue Normal,esophageal carcinoma
+TARBP2,TCGA-IG-A3I8-11,6.71,11.0,Solid Tissue Normal,esophageal carcinoma
+TARBP2,TCGA-L5-A43C-11,8.32,11.0,Solid Tissue Normal,esophageal carcinoma
+TARBP2,TCGA-L5-A4OF-11,7.88,11.0,Solid Tissue Normal,esophageal carcinoma
+TARBP2,TCGA-L5-A4OG-11,7.9,11.0,Solid Tissue Normal,esophageal carcinoma
+TARBP2,TCGA-L5-A4OJ-11,8.05,11.0,Solid Tissue Normal,esophageal carcinoma
+TARBP2,TCGA-L5-A4OM-11,7.92,11.0,Solid Tissue Normal,esophageal carcinoma
+TARBP2,TCGA-L5-A4OO-11,7.32,11.0,Solid Tissue Normal,esophageal carcinoma
+TARBP2,TCGA-L5-A4OQ-11,6.87,11.0,Solid Tissue Normal,esophageal carcinoma
+TARBP2,TCGA-L5-A4OR-11,8.06,11.0,Solid Tissue Normal,esophageal carcinoma
+TARBP2,TCGA-BR-6453-11,8.82,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-BR-6454-11,8.44,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-BR-6457-11,8.58,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-BR-6458-11,8.66,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-BR-6564-11,8.41,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-BR-6802-11,9.69,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-BR-6852-11,9.68,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-BR-7704-11,8.08,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-BR-7715-11,9.33,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-BR-7716-11,8.5,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-BR-7717-11,9.29,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-BR-7851-11,7.95,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-CG-5720-11,9.04,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-CG-5721-11,9.2,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-CG-5722-11,8.72,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-CG-5728-11,8.85,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-CG-5730-11,8.84,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-CG-5733-11,9.09,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-CG-5734-11,8.65,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-FP-7735-11,7.51,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-FP-7829-11,7.48,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-HU-8238-11,8.36,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-HU-A4G3-11,7.03,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-HU-A4GC-11,7.19,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-HU-A4GH-11,7.2,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-HU-A4GN-11,6.94,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-HU-A4GP-11,7.44,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-HU-A4GY-11,7.3,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-HU-A4HB-11,6.66,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-IN-7806-11,8.55,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-IN-8462-11,8.33,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-IN-8663-11,8.34,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-IN-AB1V-11,7.55,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-IN-AB1X-11,7.71,11.0,Solid Tissue Normal,stomach adenocarcinoma
+TARBP2,TCGA-IP-7968-11,7.96,11.0,Solid Tissue Normal,stomach adenocarcinoma
