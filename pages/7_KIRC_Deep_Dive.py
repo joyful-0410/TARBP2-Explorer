@@ -263,8 +263,7 @@ groups = [
 ]
 ax.boxplot(
     groups,
-    labels=["Low TARBP2", "High TARBP2"],
-    showfliers=False
+tick_labels=["Low TARBP2", "High TARBP2"],    showfliers=False
 )
 ax.set_ylabel("TARBP2 Expression")
 ax.set_title("TARBP2 Expression in KIRC")
