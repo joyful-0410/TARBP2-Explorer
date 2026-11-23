@@ -1,0 +1,18 @@
+# Large original TCGA expression matrix
+data/expression/EB++AdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.xena
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
